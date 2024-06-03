@@ -7,7 +7,6 @@ This repository contains a simple image viewer application built using Python, O
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 
 ## Features
 
@@ -42,14 +41,7 @@ pip install opencv-python tkinter pillow
    - Choose a display mode from the dropdown menu (color, grayscale, original).
    - Click "Show Image" to display the image in the selected mode using OpenCV.
 
-## File Structure
 
-```
-image-viewer/
-├── image_viewer.py
-├── README.md
-└── LICENSE
-```
 
 ### image_viewer.py
 
